@@ -1,0 +1,3 @@
+name: sre-infrastructure
+runtime: nodejs
+description: A production-ready Pulumi IaC stack with SRE security parameters.
